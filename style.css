@@ -1,0 +1,63 @@
+html {
+    scroll-behavior: smooth;
+}
+
+
+#navbarNav ul.navbar-nav li.nav-item a:hover {
+    background-color: #cc0000;
+}
+
+p.h1 {
+    display: block;
+    font-size: 3rem;
+}
+p.h6 {
+    padding-left: 25%;
+}
+
+.text {
+    margin-top: 20%;
+    text-shadow: 0px 2px 3px rgba(0, 0, 0, 0.7);
+}
+
+.main,body {
+    background-color: #52143d;
+}
+
+.navcolor {
+    background-color: #7b1e5c;
+}
+.profilepic {
+    padding: 0%;
+    border: 2px solid black;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0);
+}
+
+/* about */
+
+.header {
+    font-size: 4rem;
+    display: block;
+    text-align: center;
+}
+
+.abtcontainer {
+    display: flex;
+    justify-content: center;
+}
+
+.cv {
+    padding-left: 30%;
+}
+
+
+/* contact */
+.contact {
+    display: block;
+    text-align: center;
+}
+
+.card {
+    background-color: #52143d;
+    margin-top: 10%;
+}
